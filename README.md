@@ -1,3 +1,9 @@
+### Iniciando projeto
+
+yarn || npm start - para rodar front
+yarn || npm start:api - para rodar api
+
+
 ### Feedback aula 01
 
 Gostaria muito de receber um feedback referente a aula, assim posso saber se estou no caminho certo e o que posso melhorar.
