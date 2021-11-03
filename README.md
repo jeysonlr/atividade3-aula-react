@@ -1,8 +1,8 @@
 ### Iniciando projeto
-
+```
 yarn || npm start - para rodar front
 yarn || npm start:api - para rodar api
-
+```
 
 ### Feedback aula 01
 
