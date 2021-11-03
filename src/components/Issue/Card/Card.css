@@ -1,0 +1,44 @@
+.IssueCard {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #282a36;
+    border-radius: 5px;
+    font-size: 0.9rem;
+    padding: 1rem;
+  }
+  
+  .IssueCard:hover {
+    background-color: #282a36;
+  }
+  
+  .IssueCard h3 {
+    margin: 0;
+    margin-right: 0.5rem;
+    font-weight: 500;
+    font-size: 1.03rem;
+  }
+  
+  .IssueCard__headline {
+    margin-bottom: 0.5rem;
+    font-size: 0.8rem;
+  }
+  
+  .IssueCard__additional-info {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+  
+  .IssueCard__additional-info > span {
+    display: flex;
+    align-items: center;
+  }
+  
+  .IssueCard__additional-info > span a {
+    color: #fff;
+  }
+  
+  .IssueCard__additional-info > span a svg {
+    margin-right: 0.3rem;
+    font-size: 1.1rem;
+  }
